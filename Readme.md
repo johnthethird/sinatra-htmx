@@ -10,6 +10,10 @@ The little [framework](http://sinatrarb.com/) that could. When you just need to 
 
 The star of the show, [HTMX](https://htmx.org) is a monumentally great idea. Forget Javascript sprinkles, try markup FTW.
 
+## Tailwinds
+
+Like chocolate and peanut butter, [CSS and HTML](https://tailwindcss.com) go great together. In fact, you can write your CSS **in** your HTML 🤯. As a not-so-side benefit, you will **actually learn** CSS. Bonus!
+
 ## Just
 
 Instead of Make, try out [Just](https://github.com/casey/just) for your command-running needs.

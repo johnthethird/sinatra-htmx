@@ -1,4 +1,7 @@
-# Grab some sample data
+## The App ##
+# The meat of your little app goes here.
+
+# Grab some sample data and keep it around in memory to search against
 USERS = YAML.load_file('users.yaml')['results'].map{|u|
   {
     name: "#{u['name']['first']} #{u['name']['last']}",
