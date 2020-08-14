@@ -21,7 +21,6 @@ Instead of Make, try out [Just](https://github.com/casey/just) for your command-
 Get things going with:
 
 ```bash
-bundle install
 just dev
 ```
 

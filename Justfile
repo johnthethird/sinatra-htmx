@@ -1,5 +1,9 @@
-dev:
+# Justfile, a sane Make-like command runner
+dev: bundle
 	bundle exec rackup --host 0.0.0.0 -p 4567
+
+bundle:
+  bundle install
 
 build:
 	docker build -t sinatrahtmx . 
